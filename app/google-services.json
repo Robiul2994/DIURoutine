@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "436509009297",
+    "project_id": "diuroutine-1790a",
+    "storage_bucket": "diuroutine-1790a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436509009297:android:14a2e1347f9793200b2630",
+        "android_client_info": {
+          "package_name": "com.rs.diuroutine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436509009297-pi15ohvm4gtj390gdf03mt9ct6npfeto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rs.diuroutine",
+            "certificate_hash": "6761a92b4d5a562d1358aa1d0a62e412dab93321"
+          }
+        },
+        {
+          "client_id": "436509009297-o0miv4mdi3lihqmnn7rm8925pcre0p45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRvTsEcWv_FRllVhQRSDw29W7KliUL0G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436509009297-278938c6ickae4rgvus49u57te4rjdco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
